@@ -69,9 +69,7 @@ export default function Register() {
           <div className="w-14 h-14 rounded-full p-[2px] bg-gradient-to-br from-orange-500 to-yellow-400 shadow-lg">
             <img src={AnandDighe} alt="Anand Dighe" className="w-full h-full rounded-full object-cover bg-white p-[2px]" />
           </div>
-          <div className="w-14 h-14 rounded-full p-[2px] bg-gradient-to-br from-orange-500 to-yellow-400 shadow-lg">
-            <img src={EknathShinde} alt="Eknath Shinde" className="w-full h-full rounded-full object-cover object-top bg-white p-[2px]" />
-          </div>
+          
         </div>
         <LanguageToggle />
       </div>
