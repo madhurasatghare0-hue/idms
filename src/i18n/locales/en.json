@@ -1,0 +1,164 @@
+{
+  "home": {
+    "title": "Integrated Decision",
+    "titleHighlight": " Management System",
+    
+
+    "description": "An integrated digital platform for grievances, representative performance, funds, communication and voter engagement.",
+
+    "footer": "Every module is independently developed — changes in one module do not affect the others.",
+
+    "stats": {
+      "activeModules": "Active Modules",
+      "liveDashboards": "Live Dashboards",
+      "teamWorking": "Teams Working"
+    },
+
+    "cards": [
+      {
+        "id": 1,
+        "num": "01",
+        "title": "Grievance Tracking & Resolution",
+        "description": "Monitor, escalate and resolve citizen complaints in real time.",
+        "tag": "Complaints • Analytics",
+        "route": "/grievance",
+        "icon": "ti-clipboard-list"
+      },
+      {
+        "id": 2,
+        "num": "02",
+        "title": "MLA / MP / Minister Performance",
+        "description": "Track attendance, development scores and citizen feedback.",
+        "tag": "Rankings • Reports",
+        "route": "/performance",
+        "icon": "ti-chart-bar"
+      },
+      {
+        "id": 3,
+        "num": "03",
+        "title": "Distribution & Utilization of Funds",
+        "description": "Visualize fund allocation and project utilization.",
+        "tag": "Allocation • Projects",
+        "route": "/funds",
+        "icon": "ti-coins"
+      },
+      {
+        "id": 4,
+        "num": "04",
+        "title": "Integrated 2-Way Communication",
+        "description": "Manage SMS, WhatsApp and Email broadcasts.",
+        "tag": "Inbox • Broadcast",
+        "route": "/communication",
+        "icon": "ti-message-circle"
+      },
+      {
+        "id": 5,
+        "num": "05",
+        "title": "Voter Connect & Digital Engagement",
+        "description": "Run campaigns and engage digitally with voters.",
+        "tag": "Campaigns • Surveys",
+        "route": "/voter",
+        "icon": "ti-users"
+      }
+    ]
+  },
+
+  
+  "common": {
+    "dashboard": "Dashboard",
+    "back": "Back to Home",
+    "party": "Shiv Sena",
+    "cm": "Hon. Eknath Shinde",
+    "commandCentre": "Governance Command Centre"
+  },
+
+  "modules": {
+    "grievance": "Grievance Module",
+    "performance": "Performance Module",
+    "funds": "Funds Module",
+    "communication": "Communication Module",
+    "voter": "Voter Connect Module"
+  },
+
+  "grievance": {
+    "allComplaints": "All Complaints",
+    "analytics": "Analytics",
+
+    "navbar": {
+      "title": "Grievance Tracking Dashboard",
+      "subtitle": "Monitor and manage citizen complaints"
+    }
+  },
+
+  "performance": {
+    "representatives": "Representatives",
+    "map": "Maharashtra Map",
+
+    "navbar": {
+      "title": "Performance Dashboard",
+      "subtitle": "Track MLA / MP / Minister Performance"
+    }
+  },
+
+  "funds": {
+    "allocation": "Allocation",
+    "projects": "Projects",
+
+    "navbar": {
+      "title": "Funds Dashboard",
+      "subtitle": "Monitor Fund Allocation and Utilization"
+    }
+  },
+
+  "communication": {
+    "taskManagement": "Task Management",
+
+    "navbar": {
+      "title": "Communication Dashboard",
+      "subtitle": "Manage Citizen Communication Channels"
+    }
+  },
+
+  "voter": {
+    "voters": "Voters",
+    "booths": "Booths",
+    "birthdays": "Birthdays",
+    "events": "Events",
+
+    "navbar": {
+      "title": "Voter Connect Dashboard",
+      "subtitle": "Engage with Citizens Digitally"
+    }
+  },
+  "auth": {
+  "login": "Login",
+  "register": "Register",
+
+  "welcome": "Welcome Back",
+  "createAccount": "Create your account",
+
+  "fullName": "Full Name",
+  "email": "Email Address",
+  "username": "Username",
+  "password": "Password",
+
+  "enterFullName": "Enter your full name",
+  "enterEmail": "Enter your email address",
+  "enterUsername": "Enter your username",
+  "enterPassword": "Enter your password",
+
+  "loginButton": "Login",
+  "registerButton": "Register",
+
+  "noAccount": "Don't have an account?",
+  "haveAccount": "Already have an account?",
+
+  "rememberMe": "Remember me",
+  "forgotPassword": "Forgot password?"
+},
+"landing": {
+  "getStarted": "Get Started"
+}
+
+}
+
